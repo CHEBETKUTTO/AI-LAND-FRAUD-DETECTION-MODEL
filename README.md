@@ -153,7 +153,7 @@ Plot accuracy/loss curves and confusion matrices to evaluate performance.
 
 Document findings inline for easy understanding.
 
-📊 2. Data Exploration & Visualization
+
 
 
 Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
